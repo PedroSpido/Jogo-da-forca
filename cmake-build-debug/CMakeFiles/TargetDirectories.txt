@@ -1,0 +1,3 @@
+C:/Users/Pedro Spido/Desktop/Cursos faculdade/Curso C - Alura/Jogo da forca/cmake-build-debug/CMakeFiles/Jogo_da_forca.dir
+C:/Users/Pedro Spido/Desktop/Cursos faculdade/Curso C - Alura/Jogo da forca/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pedro Spido/Desktop/Cursos faculdade/Curso C - Alura/Jogo da forca/cmake-build-debug/CMakeFiles/rebuild_cache.dir

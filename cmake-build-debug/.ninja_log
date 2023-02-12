@@ -1,0 +1,5 @@
+# ninja log v5
+3	109	6974229038197863	CMakeFiles/Jogo_da_forca.dir/jogodaforca.c.obj	74f4d73358c13887
+110	273	6974229039754586	Jogo_da_forca.exe	a6d47d0e21052fa1
+4	136	6974187242222497	CMakeFiles/Jogo_da_forca.dir/forca.c.obj	26e41c2180ae7825
+1	226	6975997551616828	build.ninja	fbc80baef1816415
